@@ -12,13 +12,24 @@
 
 ## 👨‍💻 Выполненные задачи и реализованные проекты
 
-* **Курсовая работа по модулю "Ручное тестирование веб-приложений"**;
-* **Тесты на PYTHON**
+### Тестирование
+
+* **[Курсовая работа по модулю "Ручное тестирование веб-приложений" — Тестирование функционала личного кабинета крупного интернет-магазина](https://github.com/fshakrun/manual-tests-online-shop/blob/main/README.md)**;
+* **Тесты на PYTHON (Pytest). [Задача](https://github.com/netology-code/py-homeworks-advanced/tree/master/4.Tests) и её [Решение:](https://github.com/fshakrun/hw_tests)**
+
+* [Unit-tests](https://github.com/fshakrun/hw_tests/blob/main/test_python_1.py)
+* [Автотест API Яндекса](https://github.com/fshakrun/hw_tests/blob/main/test_yandex.py)
 
 * **JAVA для тестировщиков:**
 
   * Testability, автотесты, введение в ООП: объекты и методы: 
-    * Кредитный калькулятор, 
-    * Рассчет Индекса Массы Тела (Body Mass Index);
+    * Приложение для рассчета бонусных миль: [задача](https://github.com/netology-code/javaqa-homeworks-video/blob/main/TESTABILITY.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1-%D0%BC%D0%B8%D0%BB%D0%B8---%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8E) и [решение](https://github.com/fshakrun/milles-modernisation); 
+    * Рассчет Индекса Массы Тела (Body Mass Index): [задача](https://github.com/netology-code/javaqa-homeworks-video/blob/main/TESTABILITY.md#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-2-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%BC%D0%B0%D1%81%D1%81%D1%8B-%D1%82%D0%B5%D0%BB%D0%B0-%D0%BD%D0%B5%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0) и [решение](https://github.com/fshakrun/bmi-index).
   
-  * Система сборки Maven, управление зависимостями, автотесты на JUnit5;
+ 
+### Базы данных
+
+* Работа с PostgreSQL. Создание БД. [Задача.](https://github.com/netology-code/py-homeworks-db/tree/master/creation)
+  * [Проект базы данных для музыкального сайта + SQL запросы (CREATE, INSERT, SELECET) для создания таблицы из схемы.](https://github.com/fshakrun/select_queries) 
+
+**Продолжение следует...**
