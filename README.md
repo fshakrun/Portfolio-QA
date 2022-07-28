@@ -17,8 +17,8 @@
 * **[Курсовая работа по модулю "Ручное тестирование веб-приложений" — Тестирование функционала личного кабинета крупного интернет-магазина](https://github.com/fshakrun/manual-tests-online-shop/blob/main/README.md)**;
 * **Тесты на PYTHON (Pytest). [Задача](https://github.com/netology-code/py-homeworks-advanced/tree/master/4.Tests) и её [Решение:](https://github.com/fshakrun/hw_tests)**
 
-* [Unit-tests](https://github.com/fshakrun/hw_tests/blob/main/test_python_1.py)
-* [Автотест API Яндекса](https://github.com/fshakrun/hw_tests/blob/main/test_yandex.py)
+  * [Unit-tests](https://github.com/fshakrun/hw_tests/blob/main/test_python_1.py)
+  * [Автотест API Яндекса](https://github.com/fshakrun/hw_tests/blob/main/test_yandex.py)
 
 * **JAVA для тестировщиков:**
 
@@ -32,5 +32,11 @@
 
 * Работа с PostgreSQL. Создание БД. [Задача.](https://github.com/netology-code/py-homeworks-db/tree/master/creation)
   * [Проект базы данных для музыкального сайта + SQL запросы (CREATE, INSERT, SELECET) для создания таблицы из схемы.](https://github.com/fshakrun/select_queries) 
+
+### Проекты на Python
+
+* **[Курсовая работа: Резервное копирование с использованием API Яндекс.Диск и VK.] (https://github.com/fshakrun/PY-Diploma-final-version/tree/main)**
+
+Нужно написать программу для резервного копирования фотографий с профиля(аватарок) пользователя vk в облачное хранилище Яндекс.Диск. Для названий фотографий использовать количество лайков, если количество лайков одинаково, то добавить дату загрузки. Информацию по сохраненным фотографиям сохранить в json-файл.
 
 **Продолжение следует...**
