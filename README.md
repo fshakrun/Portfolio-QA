@@ -31,7 +31,7 @@
 ### Базы данных
 
 * Работа с PostgreSQL. Создание БД. [Задача.](https://github.com/netology-code/py-homeworks-db/tree/master/creation)
-  * [Проект базы данных для музыкального сайта + SQL запросы (CREATE, INSERT, SELECET) для создания таблицы из схемы.](https://github.com/fshakrun/select_queries) 
+  * [Проект базы данных для музыкального сайта + SQL запросы (CREATE, INSERT, SELECT) для создания таблицы из схемы.](https://github.com/fshakrun/select_queries) 
 
 ### Проекты на Python
 
